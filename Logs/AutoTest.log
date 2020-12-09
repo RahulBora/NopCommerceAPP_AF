@@ -1,0 +1,5 @@
+Wed, 09 Dec 2020 00:55:00: INFO: ****************Test_001_Login************
+Wed, 09 Dec 2020 00:55:00: INFO: *************** Verifying Home Page Title *************
+Wed, 09 Dec 2020 00:55:17: INFO: *************** Home Page Title is passed *************
+Wed, 09 Dec 2020 00:55:20: INFO: *************** Verifying the Login test *************
+Wed, 09 Dec 2020 00:55:33: INFO: *************** Login test is passed *************
